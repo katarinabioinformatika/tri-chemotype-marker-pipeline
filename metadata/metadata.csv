@@ -1,0 +1,36 @@
+﻿Species,Genome_ID,Chemotype,Toxin_System,Strain/Isolate,Assembly_level,Number of contigs,Contig_N50_Mb,Reported isolate/Genome assembly reference,DOI /link
+Fusarium asiaticum,GCA_025258505.1,NIV,TRI,KCTC16664,Complete genome,4,9.4 Mb ,"Jeong et al., 2023",https://doi.org/10.1094/PHYTOFR-10-22-0120-A
+Fusarium asiaticum,GCA_050916195.1,3-ADON,TRI,180197,Chromosome,5,9.4 Mb ,"Yang M et al., 2024",https://doi.org/10.1002/advs.202401899
+Fusarium culmorum,GCA_016952355.1,Not reported,TRI,Class2-1B,Complete Genome,4,9.6 Mb,"Shan et al.,2021",https://doi.org/10.1094/MPMI-07-20-0205-A
+Fusarium culmorum,GCA_900074845.1,3-ADON,TRI,UK99,Chromosome,"2,712",40.6 kb,"Urban et al.,2026",https://doi.org/10.1128/genomea.00771-16
+Fusarium graminearum,GCF_000240135.3,15-ADON,TRI,PH-1; NRRL 31084,Chromosome,433,184.6 kb,"Alexander et al.,2011",https://www.sciencedirect.com/science/article/pii/S1087184511000041?via%3Dihub
+Fusarium graminearum,GCA_020991245.1,15-ADON,TRI,PH-1,Complete genome,4,9.4 Mb,"Alexander et al.,2012",https://www.sciencedirect.com/science/article/pii/S1087184511000041?via%3Dihub
+Fusarium graminearum,GCA_051903665.1,Not reported ,TRI,mFG23,Complete genome,4,9.1 Mb,"Zhang et al., 2025",https://doi.org/10.1128/mra.00865-25
+Fusarium graminearum,GCA_037213105.1,3-ADON,TRI,KSU23522,Complete Genome,4,9 Mb,"Dhakal et al., 2024",https://doi.org/10.1093/g3journal/jkae065
+Fusarium graminearum,GCA_019343145.1,15-ADON,TRI,FG-12,Chromosome,5,7.8 Mb,"Dhakal et al., 2025",https://doi.org/10.1093/g3journal/jkae066
+Fusarium graminearum,GCA_900044135.1,15-ADON,TRI,PH-1,Chromosome,5,9.4 Mb,"Alexander et al.,2011",https://www.sciencedirect.com/science/article/pii/S1087184511000041?via%3Dihub
+Fusarium graminearum,GCA_037255895.1,15-ADON,TRI,KSU23473,Complete genome,4,9 Mb,"Dhakal et al., 2024",https://doi.org/10.1093/g3journal/jkae065
+Fusarium graminearum,GCA_037074405.1,15-ADON,TRI,KSU23468,Chromosome,7,9.1 Mb,"Dhakal et al., 2025",https://doi.org/10.1093/g3journal/jkae066
+Fusarium poae,GCA_046056315.1,NIV,TRI,Fp133,Complete genome,6,8.6 Mb,"Thomas E et al.,2025",https://doi.org/10.1021/acs.jnatprod.5c01104
+Fusarium poae,GCF_019609905.1,NIV,TRI,DAOMC 252244,Chromosome,12,10 Mb,"Islam MN et al.,2021",https://www.mdpi.com/2072-6651/13/9/670
+Fusarium pseudograminearum,GCF_000303195.2,3-ADON,TRI,CS3096,Chromosome,656,188.2 kb,"Khudhair et al., 2019",https://doi.org/10.1111/ppa.13056
+Fusarium pseudograminearum,GCA_016952305.1,Not reported ,TRI,Class2-1C,Complete genome,4,9.2 Mb,"Shan et al.,2021",https://doi.org/10.1094/MPMI-07-20-0205-A
+Fusarium sporotrichioides,GCA_019054645.1,T-2/HT-2 *,TRI,S17/16,Scaffold,28,2.7 Mb,"strain-specific toxin report not located, but there is a paper that uses these reference genomes to vonfirm presece of TRI genes ",https://doi.org/10.3390/ijms27021030
+Fusarium sporotrichioides,GCA_019054615.1,T-2/HT-2 *,TRI,S18/43,Scaffold,11,5 Mb,"strain-specific toxin report not located, but there is a paper that uses these reference genomes to vonfirm presece of TRI genes ",https://doi.org/10.3390/ijms27021031
+Fusarium equiseti,GCA_052857265.1,Not reported ,TRI,S.F-5,Scaffold,45,3.3 Mb,Included to assess recovery of the reorganized F. equiseti TRI-cluster architecture,
+Fusarium cerealis,GCA_054553065.1,NIV,TRI,F-23-4.4,Chromosome,10,8.9 Mb,"Chibuogwu et al.,2026",https://doi.org/10.1094/PHYTOFR-09-25-0103-A
+Fusarium langsethiae,GCA_018104275.1,T-2/HT-2,TRI ,Fe2391,Contig,154,3.5 Mb,"Verheecke-Vaessen et al.,2019",https://doi.org/10.1016/j.funbio.2019.04.008
+Fusarium langsethiae,GCA_001292635.1,T-2/HT-2,TRI ,Fl201059,Scaffold,2538,"	74.9 kb","Lysøe et al.,2016",http://dx.doi.org/10.1016/j.ijfoodmicro.2016.01.008
+Fusarium acuminatum,GCA_038181435.1,Not reported ,TRI ,1A,Complete genome,11,6.1 Mb,Species has been reported to produce Type A trichothecenes in some isolates; this genome has no strain-specific chemotype report.,
+Fusarium tricinctum,GCA_050859235.1,NP,TRI ,MsR-QD66,Complete genome,10,5.1 Mb,,
+Fusarium verticilloides,GCA_031360185.1,NP,TRI ,ITEM 10027,Complete genome,13,"	4.4 Mb",,
+Fusarium verticilloides,GCA_053843395.1,NP,TRI ,FvLNF15-11,Complete genome,12,4.3 Mb,,
+Fusarium verticilloides,GCA_058139895.1,NP,TRI ,CMGF-RB13,Complete genome,12,4.3 Mb,,
+Fusarium venenatum,GCA_900007375.1,NP,TRI ,A3/5,Chromosome,16,6.1 Mb,"Lee et al.,2024",https://doi.org/10.1038/s42003-024-05791-9
+Fusarium sibiricum,GCA_014898995.1,T-2/HT-2 *,TRI ,NRRL 53430,Scaffold,3100,48.1 kb,"Yli-Mattila et al., 2011, no evidence for this specific strain ",https://doi.org/10.1016/j.ijfoodmicro.2011.03.007
+Fusarium chlamydosporum,GCA_047716405.1,Not reported ,TRI,IraGTOF6,Contig,23,3.3 Mb,"Pashkov et al.,2025",https://doi.org/10.1016/j.dib.2025.111854
+Fusarium flagelliforme,GCF_020744385.1,Not reported ,TRI,FIESC 12 MPI-CAGE-AA-0113,Contig,15,5.4 Mb,There is no paper stating that this produces any mycotoxin ,
+Fusarium boothii,GCA_017656985.1,15-ADON,TRI,CBS 316.73,Scaffold,58,1.3 Mb,"Zhang et al., 2016",https://doi.org/10.3920/WMJ2015.2004
+Fusarium sambucinum,GCF_050947815.1,T-2/HT-2 *,TRI,potato_lamoka,Complete genome,4,9.7 Mb,"Recognized Type A trichothecene-producing species, however isolate-specific toxin production not reported.",https://doi.org/10.1094/PHYTOFR-05-25-0052-A
+Fusarium sambucinum,GCA_041870755.1,T-2/HT-2 *,TRI,hop_citra,Complete genome,4,9.5 Mb,"Recognized Type A trichothecene-producing species, however isolate-specific toxin production not reported.",https://doi.org/10.1094/PHYTOFR-05-25-0052-A
+Fusarium meridionale,GCA_032355295.1,NIV,TRI,JX18-4,Complete genome,4,"	9.2 Mb","Du et al.,2024",https://doi.org/10.2323/jgam.2024.05.003
