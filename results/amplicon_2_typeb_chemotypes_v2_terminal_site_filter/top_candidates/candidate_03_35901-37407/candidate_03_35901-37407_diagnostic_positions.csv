@@ -1,0 +1,7 @@
+contrast,alignment_position,group_a,group_b,group_a_consensus,group_b_consensus,group_a_coverage,group_b_coverage,group_a_consensus_fraction,group_b_consensus_fraction
+don_niv,36038,DON,NIV,G,A,1.0,1.0,0.8181818181818182,0.8
+don_niv,36185,DON,NIV,A,G,1.0,1.0,0.8181818181818182,0.8
+don_niv,37304,DON,NIV,G,T,1.0,1.0,0.9090909090909091,1.0
+don_niv,37315,DON,NIV,G,A,1.0,1.0,0.9090909090909091,1.0
+don_niv,37378,DON,NIV,C,T,1.0,1.0,0.9090909090909091,1.0
+adon,36049,3-ADON,15-ADON,T,C,1.0,1.0,0.75,1.0

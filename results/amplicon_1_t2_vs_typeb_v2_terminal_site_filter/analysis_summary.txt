@@ -1,0 +1,17 @@
+Amplicon 1: T-2/HT-2 versus Type B
+==================================
+
+Genomes used: 23
+
+Groups:
+  15-ADON     : 7
+  3-ADON      : 4
+  NIV         : 5
+  T-2/HT-2    : 7
+
+Candidates passing filters: 220
+Candidates with all required margins positive: 0
+Non-redundant candidates exported: 10
+
+The terminal regions are conserved search zones, not designed primers.
+Primer design and cross-genome testing must be completed in Geneious Prime.
