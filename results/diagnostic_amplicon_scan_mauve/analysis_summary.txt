@@ -1,0 +1,32 @@
+Simplified chemotype-separating amplicon scan
+================================================
+
+ProgressiveMauve aligned FASTA: /mnt/beegfs/home/s486140/final_BGC/results/mauve/core_TRI_cluster/Mauve_Alignment_extraction_wrapped.fasta
+Metadata:        /mnt/beegfs/home/s486140/final_BGC/results/extracted_loci/extracted_loci_metadata.csv
+Discovery genomes: 23
+
+Discovery groups:
+  15-ADON      confirmed: 7
+  3-ADON       confirmed: 4
+  NIV          confirmed: 5
+  T-2/HT-2     confirmed: 2
+  T-2/HT-2     inferred : 5
+
+Candidates passing coverage/end filters: 3
+Candidates with diagnostic sites in all three contrasts: 3
+Non-redundant shortlisted candidates:   2
+
+Primary ranking:
+  Candidates are ranked first by the smallest diagnostic-site count
+  across ADON, DON/NIV and T-2/HT-2 versus Type B, followed by
+  diagnostic-site density and total diagnostic-site count.
+
+Supporting whole-sequence margin results:
+  Candidates with all three margins > 0: 0
+  > 0  complete separation in the analysed discovery genomes
+  = 0  groups touch
+  < 0  within-group and between-group distances overlap
+
+Distance margins are retained as supporting evidence and are not a
+pass/fail requirement. Exact primers must be designed and tested
+separately in Geneious Prime.
