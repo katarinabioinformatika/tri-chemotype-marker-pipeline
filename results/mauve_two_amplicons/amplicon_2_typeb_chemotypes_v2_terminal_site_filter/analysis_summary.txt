@@ -1,0 +1,16 @@
+Mauve Amplicon 2: Type B chemotype separation
+=============================================
+
+Genomes used: 16
+
+Groups:
+  15-ADON     : 7
+  3-ADON      : 4
+  NIV         : 5
+
+Candidates passing filters: 412
+Candidates with all required margins positive: 0
+Non-redundant candidates exported: 10
+
+The terminal regions are conserved search zones, not designed primers.
+Primer design and cross-genome testing must be completed in Geneious Prime.

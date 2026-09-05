@@ -1,0 +1,11 @@
+contrast,alignment_position,group_a,group_b,group_a_consensus,group_b_consensus,group_a_coverage,group_b_coverage,group_a_consensus_fraction,group_b_consensus_fraction
+don_niv,16734,DON,NIV,A,G,1.0,1.0,0.8181818181818182,1.0
+don_niv,16735,DON,NIV,G,A,1.0,1.0,1.0,0.8
+don_niv,16738,DON,NIV,G,A,1.0,1.0,0.8181818181818182,1.0
+don_niv,16812,DON,NIV,A,C,1.0,1.0,0.9090909090909091,1.0
+don_niv,16824,DON,NIV,A,G,1.0,1.0,0.8181818181818182,0.8
+don_niv,16874,DON,NIV,T,C,1.0,1.0,0.8181818181818182,1.0
+don_niv,16896,DON,NIV,A,C,0.9090909090909091,1.0,1.0,1.0
+don_niv,16904,DON,NIV,C,G,1.0,1.0,0.9090909090909091,1.0
+don_niv,16932,DON,NIV,T,C,1.0,1.0,0.8181818181818182,1.0
+adon,15887,3-ADON,15-ADON,G,A,1.0,1.0,0.75,1.0
